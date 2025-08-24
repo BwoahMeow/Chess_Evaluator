@@ -1,0 +1,20 @@
+# Spyder IDE settings
+.spyproject/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (if you use them)
+venv/
+env/
+.venv/
+
+# IDE specific files (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
